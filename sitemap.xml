@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://utjhub.github.com/octo/blog/2013/01/14/retrospective-of-my-2012/</loc>
+        <lastmod>2013-02-19T15:33:28+04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://utjhub.github.com/octo/blog/2013/01/28/structure-assignment-and-its-pitfall-in-C-language/
+        </loc>
+        <lastmod>2013-02-19T15:33:28+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://utjhub.github.com/octo/blog/archives/</loc>
+        <lastmod>2013-02-19T15:33:28+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://utjhub.github.com/octo/</loc>
+        <lastmod>2013-02-19T15:33:28+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://utjhub.github.com/octo/robots.txt</loc>
+        <lastmod>2013-02-19T15:33:28+04:00</lastmod>
+    </url>
+</urlset>
